@@ -35,3 +35,5 @@ Z:\PERFIL\1\dotnet-RPG\obj\Debug\net5.0\dotnet-RPG.dll
 Z:\PERFIL\1\dotnet-RPG\obj\Debug\net5.0\ref\dotnet-RPG.dll
 Z:\PERFIL\1\dotnet-RPG\obj\Debug\net5.0\dotnet-RPG.pdb
 Z:\PERFIL\1\dotnet-RPG\obj\Debug\net5.0\dotnet-RPG.genruntimeconfig.cache
+Z:\PERFIL\1\dotnet-RPG\bin\Debug\net5.0\AutoMapper.dll
+Z:\PERFIL\1\dotnet-RPG\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
