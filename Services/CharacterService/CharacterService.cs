@@ -12,15 +12,8 @@ namespace dotnet_RPG.Services.CharacterService
     {
           private readonly IMapper _autoMapper;
             private static List<Character> characters = new List<Character>{
-            new Character(),
-            new Character{
-                Id = 1,
-                Name = "froddo",
-                Class = RpgClass.Cleric,
-                Defense = 2,
-                Intelligence = 3
-            }
-        };
+                new Character(),
+            };
       
         public CharacterService(IMapper autoMapper)
         {
